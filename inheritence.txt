@@ -1,0 +1,2 @@
+inheritence makes reading code easier because it gives an object organization
+inheritence makes code cleaner in that code gets reused, (and therefore is more compact)

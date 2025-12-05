@@ -1,0 +1,7 @@
+a is not changed while b is changed after the function calls
+
+a is not changed because it is an integer, and in python integers are an
+immutable type and cannot be changed when passed by reference
+
+b is changed after because it is a list, which is one of the mutable types
+in python which can be edited directly (not a copy) when passed by reference.
