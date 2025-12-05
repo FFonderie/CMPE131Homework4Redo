@@ -7,3 +7,5 @@ TestResults/
 *.sln
 *.pyproj
 *.pyc
+
+src/run.py
