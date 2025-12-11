@@ -10,5 +10,12 @@ def hello():
 def goodbye(word, number):
     print(word)
     print(number)
+
+
+@log_time
+def returnTest():
+    print("returning 5")
+    return 5
 hello()
 goodbye("a word", 42)
+print(returnTest())
